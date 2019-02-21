@@ -4,3 +4,9 @@ git remote add origin 地址
 2：从github上拉取repositories
 ①打开git终端，cd 到repository要下载到的目录
 ②git clone 项目地址 例如 git clone https://github.com/shaohuanan/note.git
+
+3：本地修改提交到github上
+①修改完成后
+② git add .  (提交全部) 或者 git add 某文件
+③ git commit -m "注释"
+④ git push 
