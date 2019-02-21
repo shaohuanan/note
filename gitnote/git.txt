@@ -7,6 +7,6 @@ git remote add origin 地址
 
 3：本地修改提交到github上
 ①修改完成后
-② git add .  (提交全部) 或者 git add 某文件
-③ git commit -m "注释"
-④ git push 
+② git add .  (提交全部) 或者 git add 某文件 (提交到缓存区)
+③ git commit -m "注释" (提交到本地库)
+④ git push  (提交到远程库)
