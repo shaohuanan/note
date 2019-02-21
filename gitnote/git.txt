@@ -1,2 +1,6 @@
 git remote -v
 git remote add origin 地址
+
+2：从github上拉取repositories
+①打开git终端，cd 到repository要下载到的目录
+②git clone 项目地址 例如 git clone https://github.com/shaohuanan/note.git
